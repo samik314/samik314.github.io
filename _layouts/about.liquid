@@ -32,9 +32,12 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
+
+        {% comment %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        {% endcomment %}
       </div>
     {% endif %}
 
@@ -49,12 +52,14 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
+    {% comment %}
     {% if site.latest_posts and site.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
+    {% endcomment %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -69,7 +74,9 @@ layout: default
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
+        {% comment %}
         <div class="contact-note">{{ site.contact_note }}</div>
+        {% endcomment %}
       </div>
     {% endif %}
 
