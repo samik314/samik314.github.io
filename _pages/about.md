@@ -6,7 +6,7 @@ subtitle: <a href='mailto:samik_mukhopadhyay@brown.edu'>Contact Me</a>
 
 profile:
   align: right
-  image: Samik_pic.jpg
+  image: Samik_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>123 your address street</p>
