@@ -16,7 +16,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello, I am Samik. 
+Hello, I am Samik. My pronouns are <i>he/him/his</i>.
 
 I am a first-year doctoral student in the Mechanics of Solids group, at Brown University School of Engineering. I am working with Prof. <a href='https://mabessa.github.io/'>Miguel A. Bessa</a>.
 
