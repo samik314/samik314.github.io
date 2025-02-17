@@ -6,9 +6,9 @@
     - name: Affiliation
       value: Brown University
     - name: Email
-      value: <a href='mailto:samik_mukhopadhyay@brown.edu'>samik_mukhopadhyay@brown.edu</a>
+      value: <a href='mailto:samik_mukhopadhyay@brown.edu'>samik_mukhopadhyay(at)brown(dot)edu</a>
     - name: URL
-      value: <a href='https://www.samikmukhopadhyay.com/'>www.samikmukhopadhyay.com/</a>
+      value: <a href='https://www.samikmukhopadhyay.com/'>www.samikmukhopadhyay.com</a>
 
 - title: Education
   type: time_table
@@ -93,6 +93,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: E. Paul Sorensen Graduate Fellowship.
+      year: 2025
+      items:
+        - Received the prestigious E. Paul Sorensen Graduate Endowment Fellowship (2025) at Brown University.
+
     - title: University of Tokyo Summer Internship Program (UTSIP)
       year: 2022
       items:
