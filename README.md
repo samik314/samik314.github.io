@@ -1,1 +1,1 @@
-This is my personal website code with template used from al-folio.
+This is my personal website code, made with template used from al-folio.
