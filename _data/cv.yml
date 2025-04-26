@@ -1,0 +1,116 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Samik Mukhopadhyay
+    - name: Affiliation
+      value: Brown University
+    - name: Email
+      value: <a href='mailto:samik_mukhopadhyay@brown.edu'>samik_mukhopadhyay(at)brown(dot)edu</a>
+    - name: URL
+      value: <a href='https://www.samikmukhopadhyay.com/'>www.samikmukhopadhyay.com/</a>
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Mechanics of Solids
+      institution: Brown University, RI, United States of America
+      year: 2024 - Present
+      description:
+        - Joined Prof. Miguel A. Bessa's group.
+      
+    - title: Bachelor of Technology (Hons.) in Civil Engineering & 
+            Master of Technology in Structural Engineering 
+      institution: Indian Institute of Technology, Kharagpur, India
+      year: 2019 - 2024
+      description:
+        # - obtained CGPA of 8.73 out of 10
+
+# - title: Research Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+- title: Research Interests
+  type: list
+  contents:
+    - Multi-scale Mechanics of Materials | Data-Driven Approaches in Computational Mechanics | Finite Element Methods
+
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: MTech Thesis
+      year: 2023 - 2024
+      description: Flow Map Learning for Unknown Dynamical Systems 
+    - title: Summer Internship
+      year: 2023
+      description: Analysis of Bird Collision Impact on Composite Materials 
+    - title: Summer Internship
+      year: 2022
+      description: Modelling of Oceano-Dynamical properties in Estuarine Area
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+  - title: E. Paul Sorensen Graduate Fellowship
+      year: 2025
+      items:
+        - Received the prestigious E. Paul Sorensen Graduate Endowment Fellowship (2025) at Brown University.
+
+    - title: University of Tokyo Summer Internship Program (UTSIP)
+      year: 2022
+      items:
+        - Summer Research Internship through UTSIP 2022 in Japan, which selects only 15 participants all over the world.
+
+    - title: Jagadish Bose National Science Talent Search (JBNSTS)
+      year: 2019
+      items:
+        - Recipient of JBNSTS Senior Scholarship funded by the Government of India.
+
+- title: Other Interests
+  type: list
+  contents:
+    - Led the student organization <a href='https://www.facebook.com/TESIITKGP/'> Technology Environment Society</a>, IIT Kharagpur, in AY 2022-2023.
+    - Founder, Author, and Co-Editor of a student-run Online Bilingual (Bengali and English) Science Magazine, <a href='https://www.facebook.com/tiyasmagazine'>Tiyas</a>.
+    - Soccer, Lord of the Rings, Geography.
