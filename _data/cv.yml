@@ -94,19 +94,19 @@
   type: time_table
   contents:
   - title: E. Paul Sorensen Graduate Fellowship
-      year: 2025
-      items:
+    year: 2025
+    items:
         - Received the prestigious E. Paul Sorensen Graduate Endowment Fellowship (2025) at Brown University.
 
-    - title: University of Tokyo Summer Internship Program (UTSIP)
-      year: 2022
-      items:
-        - Summer Research Internship through UTSIP 2022 in Japan, which selects only 15 participants all over the world.
+  - title: University of Tokyo Summer Internship Program (UTSIP)
+    year: 2022
+    items:
+      - Summer Research Internship through UTSIP 2022 in Japan, which selects only 15 participants all over the world.
 
-    - title: Jagadish Bose National Science Talent Search (JBNSTS)
-      year: 2019
-      items:
-        - Recipient of JBNSTS Senior Scholarship funded by the Government of India.
+  - title: Jagadish Bose National Science Talent Search (JBNSTS)
+    year: 2019
+    items:
+      - Recipient of JBNSTS Senior Scholarship funded by the Government of India.
 
 - title: Other Interests
   type: list
