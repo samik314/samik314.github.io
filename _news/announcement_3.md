@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-I joined Prof. Miguel A. Bessa's lab for my doctoral thesis. :sparkles: :smile:
+I joined Prof. Miguel A. Bessa's lab for my doctoral thesis.

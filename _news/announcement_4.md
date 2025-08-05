@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded the prestigious E. Paul Sorensen Graduate Endowment Fellowship (2025) at Brown University. 😃
+I have been awarded the prestigious E. Paul Sorensen Graduate Endowment Fellowship (2025) at Brown University. 
