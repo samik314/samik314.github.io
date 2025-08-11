@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello, I am Samik. My pronouns are <i>he/him/his</i>.
 
-I am a first-year doctoral student in the Mechanics of Solids group, at Brown University School of Engineering. I am working with Prof. <a href='https://mabessa.github.io/'>Miguel A. Bessa</a>.
+I am a second-year doctoral student in the Mechanics of Solids group, at Brown University School of Engineering. I am working with Prof. <a href='https://mabessa.github.io/'>Miguel A. Bessa</a>.
 
 <h2> Research Interests </h2>
 <ul>
