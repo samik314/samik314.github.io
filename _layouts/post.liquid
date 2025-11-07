@@ -96,4 +96,9 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+
+  <!-- Contact Form -->
+  {% if page.contact_form != false %}
+    {% include contact_form.liquid %}
+  {% endif %}
 </div>
