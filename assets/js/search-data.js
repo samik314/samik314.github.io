@@ -30,7 +30,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-awarded-the-prestigious-e-paul-sorensen-graduate-endowment-fellowship-2025-at-brown-university",
           title: 'I have been awarded the prestigious E. Paul Sorensen Graduate Endowment Fellowship (2025)...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-i-attended-the-2025-u-s-national-committee-on-theoretical-and-applied-mechanics-usnc-tam-s-amerimech-symposium",
+          title: 'I attended the 2025 U.S. National Committee on Theoretical and Applied Mechanics (USNC/TAM)’s...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
