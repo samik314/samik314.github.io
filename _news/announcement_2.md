@@ -4,6 +4,7 @@ title: I graduated from IIT Kharagpur
 date: 2024-05-31 16:11:00+0530
 inline: false
 related_posts: false
+contact_form: false
 ---
 
 I got my degree in Bachelor of Technology (Hons.) in Civil Engineering and Master of Technology in Structural Engineering from Indian Institute of Technology Kharagpur at the 70th convocation.
