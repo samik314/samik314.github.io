@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "This is a brief and general version. For more detailed and updated version, please check the pdf above. Thank you!!",
           section: "Navigation",
@@ -35,6 +42,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-i-have-passed-my-qualifying-exams-today",
+          title: 'I have passed my qualifying exams today!',
+          description: "",
+          section: "News",},{id: "news-i-presented-a-poster-at-brown-university-national-labs-day-2026",
+          title: 'I presented a poster at Brown University National Labs Day 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
